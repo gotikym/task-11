@@ -6,8 +6,9 @@
         {
             int maxHealth = 100;
             int treatment = 7;
+            int startHealthPoint = 5;
 
-            for (int i = 5; i < maxHealth; i += treatment)
+            for (int i = startHealthPoint; i < maxHealth; i += treatment)
             {
                 Console.WriteLine(i);
             }

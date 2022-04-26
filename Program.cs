@@ -1,7 +1,5 @@
 ﻿using System;
 
-namespace task_11
-{
     internal class Program
     {
         static void Main(string[] args)
@@ -15,4 +13,3 @@ namespace task_11
             }
         }
     }
-}
